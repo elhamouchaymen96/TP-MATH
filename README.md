@@ -1,1 +1,1 @@
-# équation-diophantienne
+# TP de Mathématiques : algorithme pour résoudre l'équation diophantienne
